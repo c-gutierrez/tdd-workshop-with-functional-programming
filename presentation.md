@@ -59,7 +59,7 @@ Funciones sirven para 3 cosas:
 
 ## TDD
 
-+ mochajs
++ tapejs
 + faucet
 + huskyjs
 
